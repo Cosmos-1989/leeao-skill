@@ -1,0 +1,2 @@
+{"subject":"李敖材料上游","claim":"本工程所依据的本地原始材料来自 GitHub 仓库 whatot/leeao，并已拉取到 ../leeao-upstream/。","source":"../leeao-upstream/README.md","citation_safe":true,"note":"上游自称为 mdbook 格式化项目，不是原著者发布。"}
+{"subject":"上游材料结构","claim":"上游材料按自传回忆、精品散文、惊世杂文、小说剧本、诗集语录、沉思日记、采访序跋、书信函件、历史文化、节目演讲、电子报、人物研究、国民党史政、台湾史政、法律、祸台十书、百家论李敖等 17 类组织。","source":"../leeao-upstream/SUMMARY.md","citation_safe":true,"note":"用于检索路径，不作为作品版本学结论。"}
