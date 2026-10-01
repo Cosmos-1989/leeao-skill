@@ -1,51 +1,29 @@
-# Quickstart
+# 快速入门
 
-## 这个 skill 想蒸馏什么
+所有代码路径相对于工程根目录，Markdown 链接相对于所在文件。写作从 [skill 入口](../skills/leeao/SKILL.md) 分流，不必把全部资源读一遍。
 
-李敖不是一个单纯的“毒舌模板”。这个 skill 蒸馏的是：
+## 写作
 
-- 资料意识：说话要能回到书、信、案、史、原文。
-- 论战方式：先拆名义，再拆证据，再拆伪善。
-- 文体节奏：白话、短促、俏皮、翻案、可读。
-- 反权威姿态：不拜神像，不信官样文章。
-- 自我复杂性：锋利、博学、表演欲、偏激和时代局限并存。
+- 命题作文：[文学笔法](../prompts/literary_style.md) 与 [输出边界](../prompts/response_policy.md)。
+- 抒情、小说、书信：[文体选择](../prompts/persona.md)，再按证据卡回到相应篇章。
+- 后期论辩：[后期论辩](../prompts/late_argument.md)；让对方最有道理的那部分留在文章中。
+- 拟题：从题目真正的争点选词，不一律套“你不配”“别拿……说事”。
+- 修订：[检查清单](../prompts/revision_checklist.md)，删改意思、照应和节奏，不做古雅词替换。
 
-## 上游材料概况
+`knowledge/style_evidence.jsonl` 的 20 张卡片来自 11 个文件的选段，记录观察、写作用途和不能推出的结论。每个段落都不是必须遵守的句法模板。
 
-上游 `../leeao-upstream/` 包含约 153 个 Markdown 文件，分为 17 个大类：
+## 查材料
 
-- 自传回忆类
-- 精品散文类
-- 惊世杂文类
-- 小说剧本类
-- 诗集语录类
-- 沉思日记类
-- 采访序跋类
-- 书信函件类
-- 历史文化类
-- 李敖节目演讲合集
-- 李敖电子报合集
-- 人物研究类
-- 国民党史政类
-- 台湾史政类
-- 雷霆法律类
-- 李敖祸台十书
-- 百家论李敖合集
+固定快照包含 153 个 Markdown 文件：133 个正文/合集文件、17 个分类 README 和 3 个顶层元信息文件。“133”不是独立篇目的数量。
 
-## 主题入口
+先用 [作品目录](catalog.md) 找书，再读 [检索流程](../prompts/retrieval_workflow.md) 核对篇章、发言者及日期。
 
-- 作品目录：读 `catalog.md`
-- 生平与自我叙述：读 `topics/autobiography.md`
-- 杂文和文体：读 `topics/essays.md`
-- 人物研究：读 `topics/people.md`
-- 台湾、党国和政治论战：读 `topics/politics.md`
-- 历史文化：读 `topics/history_culture.md`
-- 法律与官司：读 `topics/law.md`
-- 节目、演讲、电子报：读 `topics/media.md`
+- [散文与杂文](topics/essays.md)、[小说与诗文](topics/literature.md)
+- [电子报与节目](topics/media.md)
+- 旧版主题定位入口：[自传](topics/autobiography.md)、[人物](topics/people.md)、[政治](topics/politics.md)、[历史文化](topics/history_culture.md)、[法律](topics/law.md)
 
-## 使用原则
+最后五个入口本轮仅维护索引边界，不声称已重新深读全部主题材料。人物事实仍须核实；书名列在目录中不是事实成立的证据。
 
-- 改写任务：先确认用户要“更像李敖”还是“用李敖式方法变锋利”。
-- 分析任务：先拆事实，再拆概念，最后下判断。
-- 引用任务：必须回到上游原文核对，不要只凭 quickstart。
-- 作文任务：先读 `prompts/literary_style.md`，避免写成马督工式结构分析。
+## 资源缺失
+
+没有上游语料时，可以写原创文章。需要原话或具体史实时，使用用户提供的可核文本或另找可靠来源，不能假装检索成功。详见 [来源说明](../docs/dev/leeao-source-map.md)。

@@ -1,0 +1,1150 @@
+{
+  "schema_version": 1,
+  "source_url": "https://github.com/whatot/leeao",
+  "upstream_commit": "c638b71323bf8bdce66a9cbf19c1408202426d73",
+  "markdown_file_count": 153,
+  "work_file_count": 133,
+  "categories": {
+    "01.自传回忆类": {
+      "markdown": 6,
+      "works": 5
+    },
+    "02.精品散文类": {
+      "markdown": 6,
+      "works": 5
+    },
+    "03.惊世杂文类": {
+      "markdown": 15,
+      "works": 14
+    },
+    "04.小说剧本类": {
+      "markdown": 7,
+      "works": 6
+    },
+    "05.诗集语录类": {
+      "markdown": 4,
+      "works": 3
+    },
+    "06.沉思日记类": {
+      "markdown": 11,
+      "works": 10
+    },
+    "07.采访序跋类": {
+      "markdown": 6,
+      "works": 5
+    },
+    "08.书信函件类": {
+      "markdown": 11,
+      "works": 10
+    },
+    "09.历史文化类": {
+      "markdown": 11,
+      "works": 10
+    },
+    "10.李敖节目演讲合集": {
+      "markdown": 6,
+      "works": 5
+    },
+    "11.李敖电子报合集": {
+      "markdown": 6,
+      "works": 5
+    },
+    "12.人物研究类": {
+      "markdown": 25,
+      "works": 24
+    },
+    "13.国民党史政类": {
+      "markdown": 7,
+      "works": 6
+    },
+    "14.台湾史政类": {
+      "markdown": 9,
+      "works": 8
+    },
+    "15.雷霆法律类": {
+      "markdown": 6,
+      "works": 5
+    },
+    "16.李敖祸台十书": {
+      "markdown": 11,
+      "works": 10
+    },
+    "17.百家论李敖合集": {
+      "markdown": 3,
+      "works": 2
+    }
+  },
+  "files": [
+    {
+      "path": "01.自传回忆类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "01.自传回忆类/我最难忘的事和人.md",
+      "kind": "work",
+      "bytes": 311141,
+      "lines": 1720,
+      "sha256": "66a9922352d4b6bc52ff0c8ee8042be23bd3159bbb05f9974c069bcf6901bbe1"
+    },
+    {
+      "path": "01.自传回忆类/李敖回忆录.md",
+      "kind": "work",
+      "bytes": 698246,
+      "lines": 3090,
+      "sha256": "25aa1720be4a8b087c548aefe61c7883e7bb843435c274c53093a2b65717ed9f"
+    },
+    {
+      "path": "01.自传回忆类/李敖快意恩仇录.md",
+      "kind": "work",
+      "bytes": 815772,
+      "lines": 2658,
+      "sha256": "8af2a2b378d4cbfd7d33d3a4566045d7523abe1b88d4b0e178a1e8fb583e2841"
+    },
+    {
+      "path": "01.自传回忆类/李敖自传与回忆.md",
+      "kind": "work",
+      "bytes": 487379,
+      "lines": 2753,
+      "sha256": "5b8bfc2d5c352d96d44b70cfc86afd2502d95d4d2768e4f5798ca615c85ce3b9"
+    },
+    {
+      "path": "01.自传回忆类/李敖议坛哀思录.md",
+      "kind": "work",
+      "bytes": 837595,
+      "lines": 6801,
+      "sha256": "b3bd70c5e6ee0194bb989f8204b0d03b6366a1bca53445265737740a708f8858"
+    },
+    {
+      "path": "02.精品散文类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "02.精品散文类/传统下的独白.md",
+      "kind": "work",
+      "bytes": 280998,
+      "lines": 1885,
+      "sha256": "52f37f017c8901512c9ffc42f77e48001d05e5da37eef29e57ad481b942dd727"
+    },
+    {
+      "path": "02.精品散文类/李敖文存.md",
+      "kind": "work",
+      "bytes": 161895,
+      "lines": 1091,
+      "sha256": "744285a0405cc205e3ba5c52e9c5adc975050c675a31f6cbc87d9b20bb475eac"
+    },
+    {
+      "path": "02.精品散文类/李敖文存二集.md",
+      "kind": "work",
+      "bytes": 174554,
+      "lines": 1030,
+      "sha256": "b4e3cd1a396ca2eebb7411ae4b30dec261ddbb4af8e7911147008154d236eae6"
+    },
+    {
+      "path": "02.精品散文类/波波颂.md",
+      "kind": "work",
+      "bytes": 195147,
+      "lines": 1382,
+      "sha256": "061c21a0cade7b3a6948e519562f033810cd4c923b62969a6028e61376d08215"
+    },
+    {
+      "path": "02.精品散文类/独白下的传统.md",
+      "kind": "work",
+      "bytes": 260280,
+      "lines": 2179,
+      "sha256": "f47d06dbebc1db70c7948317413dd49710fd5353fa85c2094b3dc700a22bb3fe"
+    },
+    {
+      "path": "03.惊世杂文类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "03.惊世杂文类/上下古今谈.md",
+      "kind": "work",
+      "bytes": 254489,
+      "lines": 1808,
+      "sha256": "dcc2f40a86a8b8d18077576163381e4a65e3f241731759689e1ad056d7389c76"
+    },
+    {
+      "path": "03.惊世杂文类/世论新语.md",
+      "kind": "work",
+      "bytes": 323485,
+      "lines": 2400,
+      "sha256": "6b07203f0cc2dd325fd8cd2d5d07f4e481052519f0e226c656e923695fe6a5aa"
+    },
+    {
+      "path": "03.惊世杂文类/为中国思想趋向求答案.md",
+      "kind": "work",
+      "bytes": 206374,
+      "lines": 1598,
+      "sha256": "59b89ff21774951cb0f180a723e6107e409423e4a92dbcb4a8576038155a3631"
+    },
+    {
+      "path": "03.惊世杂文类/为文学开窗.md",
+      "kind": "work",
+      "bytes": 239300,
+      "lines": 2764,
+      "sha256": "469426b9b833983f87657681c5f518d5ab66a3a0fb78a6e1964dad3717632707"
+    },
+    {
+      "path": "03.惊世杂文类/为自由招魂.md",
+      "kind": "work",
+      "bytes": 266811,
+      "lines": 1813,
+      "sha256": "95a4eb610833d699bee6ad5a8cf8397f294fe3f223cff75e7389fefbba876a6f"
+    },
+    {
+      "path": "03.惊世杂文类/你是景福门.md",
+      "kind": "work",
+      "bytes": 218160,
+      "lines": 1058,
+      "sha256": "8a43d278cedec899d0532aeb7edbd30217ff5f9485816f78ae93da93100f1db0"
+    },
+    {
+      "path": "03.惊世杂文类/你笨蛋，你笨蛋.md",
+      "kind": "work",
+      "bytes": 415329,
+      "lines": 3978,
+      "sha256": "ad38903e59e1cac7dd13950b02c873bc4c04697f3467c72d09e83756fbb381d5"
+    },
+    {
+      "path": "03.惊世杂文类/历史与人像.md",
+      "kind": "work",
+      "bytes": 331267,
+      "lines": 2443,
+      "sha256": "104db9e677d4c4d89e837193a1b655f34a39110c6fe9f510017538886879a6b8"
+    },
+    {
+      "path": "03.惊世杂文类/我是天安门.md",
+      "kind": "work",
+      "bytes": 191136,
+      "lines": 965,
+      "sha256": "57fe034b2c81be5ecf8d04fd24df0827df8a4f5fa1554e5915352d8f67af0d77"
+    },
+    {
+      "path": "03.惊世杂文类/我梦碎所以我梦醒.md",
+      "kind": "work",
+      "bytes": 376235,
+      "lines": 2357,
+      "sha256": "166209e11a7cfff3142cef31310d4ee124fcf8a209acb8aa5363e6d6efedd2e6"
+    },
+    {
+      "path": "03.惊世杂文类/教育与脸谱.md",
+      "kind": "work",
+      "bytes": 316853,
+      "lines": 2049,
+      "sha256": "f01425dbfc24d33ac9f709c1b6db74d98ff7287e67dfed85249cb3346c279a7d"
+    },
+    {
+      "path": "03.惊世杂文类/文化论战丹火录.md",
+      "kind": "work",
+      "bytes": 407140,
+      "lines": 2340,
+      "sha256": "56c5366a05c449487c91f2d310cf6a10d50019f6342a92fea3875e57d7873af1"
+    },
+    {
+      "path": "03.惊世杂文类/李敖杂文集.md",
+      "kind": "work",
+      "bytes": 361221,
+      "lines": 2447,
+      "sha256": "ca1dc3de1af70836a88a71cfa68fb7d9e0b9a20ebc529bf242045f6c1765ca3e"
+    },
+    {
+      "path": "03.惊世杂文类/求是新语.md",
+      "kind": "work",
+      "bytes": 202285,
+      "lines": 1565,
+      "sha256": "d07586d3a50cd5e9c4cdee4187a00bc087c02f1dfd76b8cc15f018df68f5f62f"
+    },
+    {
+      "path": "04.小说剧本类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "04.小说剧本类/上山上山爱.md",
+      "kind": "work",
+      "bytes": 672725,
+      "lines": 6901,
+      "sha256": "51c7540e50caa6357a8ae29627d3b5a87575a0f4a3e48530cd27c43b636fa156"
+    },
+    {
+      "path": "04.小说剧本类/北京法源寺.md",
+      "kind": "work",
+      "bytes": 505028,
+      "lines": 2948,
+      "sha256": "501bef6dd21f42ffbf66b266b7d38c21cce97ab7bc6083a010e0a8da0b315770"
+    },
+    {
+      "path": "04.小说剧本类/第73烈士.md",
+      "kind": "work",
+      "bytes": 374600,
+      "lines": 3796,
+      "sha256": "c958be883fc18b8a068430fb5ea7b67c5532824f2b23d383926f6c7e0254e3e6"
+    },
+    {
+      "path": "04.小说剧本类/红色11.md",
+      "kind": "work",
+      "bytes": 440623,
+      "lines": 2875,
+      "sha256": "5df4162e5dcd105f1c68ce568d361f4adb0f473fd6feb008ed88e8fc6ec14445"
+    },
+    {
+      "path": "04.小说剧本类/虚拟的十七岁.md",
+      "kind": "work",
+      "bytes": 702865,
+      "lines": 8418,
+      "sha256": "803c3226e65c33e75a7be7cd737841d5ab193ace5a4d718bf52ec325dc65c5be"
+    },
+    {
+      "path": "04.小说剧本类/阳痿美国.md",
+      "kind": "work",
+      "bytes": 694938,
+      "lines": 7013,
+      "sha256": "65ccd2efd7ad4d61a7a24bc912d475a1607138f9d458ff6040fcff4926eadca5"
+    },
+    {
+      "path": "05.诗集语录类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "05.诗集语录类/李敖语萃.md",
+      "kind": "work",
+      "bytes": 965433,
+      "lines": 7338,
+      "sha256": "eb753d8d9b004de121d5d3483cb696d41a2fe7413bd1c749666dc94ea268f6ae"
+    },
+    {
+      "path": "05.诗集语录类/李语录.md",
+      "kind": "work",
+      "bytes": 57062,
+      "lines": 2074,
+      "sha256": "9eb36e17514e2cfa403e59791002505bb3b5c0dc7fc84d2462e9507ddfea5d7e"
+    },
+    {
+      "path": "05.诗集语录类/爱情的秘密.md",
+      "kind": "work",
+      "bytes": 114196,
+      "lines": 3985,
+      "sha256": "c6dfb1e032e02ab49977b693dd01e2a9299e968b8ed9a2688c5dce029786f8cd"
+    },
+    {
+      "path": "06.沉思日记类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "06.沉思日记类/一个预备军官的日记.md",
+      "kind": "work",
+      "bytes": 1076835,
+      "lines": 18278,
+      "sha256": "2ca9d4b03b1574149f10df30b29fc286f8823a36c5fc5768cdbbfb3b30ecb440"
+    },
+    {
+      "path": "06.沉思日记类/大学日记后期乙集.md",
+      "kind": "work",
+      "bytes": 138116,
+      "lines": 3578,
+      "sha256": "c3dabcdbe4e594b4aebbf3dbd13f9e381a7133e4b1316eba509b7f36a13dbc42"
+    },
+    {
+      "path": "06.沉思日记类/大学日记后期甲集.md",
+      "kind": "work",
+      "bytes": 177877,
+      "lines": 3652,
+      "sha256": "d7aefbe569ce7d76e8ab209c0fd279309bab07bc7669b0adeb93675c2acc1aab"
+    },
+    {
+      "path": "06.沉思日记类/大学札记.md",
+      "kind": "work",
+      "bytes": 140764,
+      "lines": 1402,
+      "sha256": "8748b655e01d8cd1f66bb658bbeab23e0f78aef7b0087452c8c3536b92aa20ff"
+    },
+    {
+      "path": "06.沉思日记类/早年日记.md",
+      "kind": "work",
+      "bytes": 164341,
+      "lines": 3698,
+      "sha256": "dfb59a9aeab6c41f47509ae0d492817dc685aabeae9658c0bc8192c5d436472a"
+    },
+    {
+      "path": "06.沉思日记类/李敖五五日记.md",
+      "kind": "work",
+      "bytes": 141444,
+      "lines": 4132,
+      "sha256": "64d9b1db4d9d0f2ffa48c21eb043a84ca3aeba42b5321c329a0b56c0efd69049"
+    },
+    {
+      "path": "06.沉思日记类/李敖札记.md",
+      "kind": "work",
+      "bytes": 114230,
+      "lines": 957,
+      "sha256": "fd88841dcfd1a8068dfacff1e57276273ee30b460628b83a69a2475aa9cebd92"
+    },
+    {
+      "path": "06.沉思日记类/李敖秘藏日记.md",
+      "kind": "work",
+      "bytes": 193876,
+      "lines": 2840,
+      "sha256": "db836b701369a68ea8cf8d49eee5b7abf415040390bc88468d519de51a11fc4d"
+    },
+    {
+      "path": "06.沉思日记类/李敖随写录前集.md",
+      "kind": "work",
+      "bytes": 213266,
+      "lines": 2088,
+      "sha256": "d022a73a31889727caf5f2c598607a71cde401c68dce3369810d190c9e3da07c"
+    },
+    {
+      "path": "06.沉思日记类/李敖随写录后集.md",
+      "kind": "work",
+      "bytes": 243127,
+      "lines": 1905,
+      "sha256": "b02256536f762fc9e6a5c5de7b2519226fe94b1db872d4673df6c372284d7239"
+    },
+    {
+      "path": "07.采访序跋类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "07.采访序跋类/李敖书序集.md",
+      "kind": "work",
+      "bytes": 175749,
+      "lines": 875,
+      "sha256": "fa7cd57eec1e0337caeaf7a7921866a4e9b227a21f56079353709442e38c8933"
+    },
+    {
+      "path": "07.采访序跋类/李敖书序集续集.md",
+      "kind": "work",
+      "bytes": 86086,
+      "lines": 530,
+      "sha256": "8c62a5546a8d30514e509557f243c07dce18052bf8568cd95f34a3bc2b6c0ed4"
+    },
+    {
+      "path": "07.采访序跋类/李敖对话录.md",
+      "kind": "work",
+      "bytes": 385549,
+      "lines": 3361,
+      "sha256": "5058448f840ddc412331c66944497fd981d8e700347d9755024cbecd72ecc8dd"
+    },
+    {
+      "path": "07.采访序跋类/李敖报刊集.md",
+      "kind": "work",
+      "bytes": 132145,
+      "lines": 892,
+      "sha256": "49e9709fcd2998369d22ee544bdf423d4cf3919925aed0fc1e1b0060561bdef4"
+    },
+    {
+      "path": "07.采访序跋类/李敖访谈录1996-2014.md",
+      "kind": "work",
+      "bytes": 1473170,
+      "lines": 11411,
+      "sha256": "c75dae293783ccb557979ecf9836f1327e7ec4b32e05aeac694e44bf88650c68"
+    },
+    {
+      "path": "08.书信函件类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "08.书信函件类/坐牢家爸爸给女儿的八十封信.md",
+      "kind": "work",
+      "bytes": 250228,
+      "lines": 2973,
+      "sha256": "18f445db821666c2ff2a1d354ee5b2db488eeb412d83276bdec40be81f3cedc3"
+    },
+    {
+      "path": "08.书信函件类/李敖书信集.md",
+      "kind": "work",
+      "bytes": 323664,
+      "lines": 2235,
+      "sha256": "15184ce5e8e58b1b2d6b23d2f5a4c24fcb14c65ce3dd54ecd841b9c8cf673d1f"
+    },
+    {
+      "path": "08.书信函件类/李敖书函集.md",
+      "kind": "work",
+      "bytes": 235442,
+      "lines": 1848,
+      "sha256": "4c097a5b98a3e80cf9ec24988ed536d71c11d02f3a862df9a46bbd0ffe3640f0"
+    },
+    {
+      "path": "08.书信函件类/李敖书启集.md",
+      "kind": "work",
+      "bytes": 213611,
+      "lines": 1758,
+      "sha256": "7b92135cef956f1439a22f53b135a54701c5ae86b3507a3c9c9d6dd4b28b179f"
+    },
+    {
+      "path": "08.书信函件类/李敖书札集.md",
+      "kind": "work",
+      "bytes": 254949,
+      "lines": 1954,
+      "sha256": "c4de3b30043cca2b484ed1bd08240f9cb289c584ad1cb0a7c8f67f5b72fcade9"
+    },
+    {
+      "path": "08.书信函件类/李敖书牍集.md",
+      "kind": "work",
+      "bytes": 187550,
+      "lines": 1471,
+      "sha256": "0a608df272c4c81b2601bdcf1c34910b72e89397a08198c8621629a41b554cb9"
+    },
+    {
+      "path": "08.书信函件类/李敖书笺集.md",
+      "kind": "work",
+      "bytes": 247214,
+      "lines": 1621,
+      "sha256": "3807ddd241355ce840fafaeed3a2df6d60316773145ef2704a6697d9f30be49c"
+    },
+    {
+      "path": "08.书信函件类/李敖书简集.md",
+      "kind": "work",
+      "bytes": 267848,
+      "lines": 1868,
+      "sha256": "0b1db6f74541572172617e8140813f1968b91761bcfbb5c1f9a1d782bd3d5b9d"
+    },
+    {
+      "path": "08.书信函件类/李敖书翰集.md",
+      "kind": "work",
+      "bytes": 192527,
+      "lines": 2469,
+      "sha256": "77296af2b9520bb41a4f611cd50f92829c37f82564305b2b5bd91c45c9b8be0d"
+    },
+    {
+      "path": "08.书信函件类/李敖情书集.md",
+      "kind": "work",
+      "bytes": 282159,
+      "lines": 3805,
+      "sha256": "e3aaf7df5f5068008098075fecced86b88e7282ef63ab8f698ff0bb6b5080f7c"
+    },
+    {
+      "path": "09.历史文化类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "09.历史文化类/中国命研究.md",
+      "kind": "work",
+      "bytes": 331311,
+      "lines": 2404,
+      "sha256": "1a36e41806bb96aeac85e9cb7b8bc2015142453cafbfaa2a9d32abe0fa152d8f"
+    },
+    {
+      "path": "09.历史文化类/中国性研究.md",
+      "kind": "work",
+      "bytes": 312670,
+      "lines": 2388,
+      "sha256": "985939a46530ad3b22e6986f0efe518cbae4decbdda633cd2b417ea0c0782ad0"
+    },
+    {
+      "path": "09.历史文化类/中国现代史定论.md",
+      "kind": "work",
+      "bytes": 115814,
+      "lines": 418,
+      "sha256": "bef9f454bb3700ae206152e05e19abe814860b495254d5d7ccd5cd15f28bb0ff"
+    },
+    {
+      "path": "09.历史文化类/中国现代史正论.md",
+      "kind": "work",
+      "bytes": 250180,
+      "lines": 1411,
+      "sha256": "0a25e1d93e27b22e60f799ea6b24d2730d944a2fa31848c7093bc8ff29830814"
+    },
+    {
+      "path": "09.历史文化类/中国艺术新研.md",
+      "kind": "work",
+      "bytes": 261967,
+      "lines": 1729,
+      "sha256": "70b0f3bfa32be3fe5faf8073bbc68ae3014596d99c74e3db4274c8a28a7d4afd"
+    },
+    {
+      "path": "09.历史文化类/中国近代史新论.md",
+      "kind": "work",
+      "bytes": 287987,
+      "lines": 1882,
+      "sha256": "542bbac81e58afeff1443193c76eabd4002bbe9f70379fac62d218307ba23bf9"
+    },
+    {
+      "path": "09.历史文化类/中国迷信新研.md",
+      "kind": "work",
+      "bytes": 208963,
+      "lines": 2071,
+      "sha256": "4cc1c3bc53f74d4afc23185a8d95a9b7b1e7d63af39bfe982e6bbc7f7d1b26fe"
+    },
+    {
+      "path": "09.历史文化类/为历史拨云.md",
+      "kind": "work",
+      "bytes": 256460,
+      "lines": 1388,
+      "sha256": "29a50b6706e7cfc35807bd2a30ea3dedc43aff37d9f4d9732e05c05553da9d48"
+    },
+    {
+      "path": "09.历史文化类/要把金针度与人.md",
+      "kind": "work",
+      "bytes": 325143,
+      "lines": 2483,
+      "sha256": "68d9c7ca2673bd075a36fedb7350599dac99d4aa457f3ccd2b66e7db8b5aecac"
+    },
+    {
+      "path": "09.历史文化类/读史指南.md",
+      "kind": "work",
+      "bytes": 173022,
+      "lines": 2108,
+      "sha256": "48e9391f4ac33922cafd94368482ebf56667e950ac4b1649fb9cdcd13cb2dced"
+    },
+    {
+      "path": "10.李敖节目演讲合集/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "10.李敖节目演讲合集/李敖大哥大.md",
+      "kind": "work",
+      "bytes": 177049,
+      "lines": 1017,
+      "sha256": "434bc21466eb3b0fe1fa3bd74fca17d1bd47a92c72a312a14ec9124353ecd2c9"
+    },
+    {
+      "path": "10.李敖节目演讲合集/李敖有话说1-735全集.md",
+      "kind": "work",
+      "bytes": 6188070,
+      "lines": 18101,
+      "sha256": "5393933b4f8ab5965201a46c6094cee25e8c0f9b8cba75db29612db4fa77c8c5"
+    },
+    {
+      "path": "10.李敖节目演讲合集/李敖演讲集.md",
+      "kind": "work",
+      "bytes": 604963,
+      "lines": 2691,
+      "sha256": "1415d7669606076ea5e4a818e5acc938a7ba8f872ed6017354624d402e7756f0"
+    },
+    {
+      "path": "10.李敖节目演讲合集/李敖秘密书房.md",
+      "kind": "work",
+      "bytes": 466530,
+      "lines": 2557,
+      "sha256": "31edc602bbbcb4a08f161529842402867d1fc17c358f575b352ed7266d0eb013"
+    },
+    {
+      "path": "10.李敖节目演讲合集/李敖笑傲江湖.md",
+      "kind": "work",
+      "bytes": 2132757,
+      "lines": 5444,
+      "sha256": "b111e74856e7d74a5e04954f457361b52653a97246d3487ac51718bdbcce72bd"
+    },
+    {
+      "path": "11.李敖电子报合集/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "11.李敖电子报合集/李敖发电集.md",
+      "kind": "work",
+      "bytes": 407676,
+      "lines": 2487,
+      "sha256": "646e1d89a10332669d2e71df1bf9bbf4fb75aa886a0289c32f3dd18951bda942"
+    },
+    {
+      "path": "11.李敖电子报合集/李敖放电集.md",
+      "kind": "work",
+      "bytes": 212752,
+      "lines": 1362,
+      "sha256": "6c50fd71a7d6c060c2e9556f631eda0315f1e9d9d90375e3374805776dd284b2"
+    },
+    {
+      "path": "11.李敖电子报合集/李敖来电集.md",
+      "kind": "work",
+      "bytes": 307521,
+      "lines": 2328,
+      "sha256": "00004b55f47dda840becf8389a48014fdaf9b10f83b1bf638a012e8fe192a025"
+    },
+    {
+      "path": "11.李敖电子报合集/李敖送电集.md",
+      "kind": "work",
+      "bytes": 370805,
+      "lines": 2173,
+      "sha256": "8cdaa335a46dbc3dcc525968d82f1faea54ff9a5eb7bc0018642a12f64b6b579"
+    },
+    {
+      "path": "11.李敖电子报合集/李敖通电集.md",
+      "kind": "work",
+      "bytes": 475786,
+      "lines": 3551,
+      "sha256": "e11f6bb6fba04f6dd9629c34277355c281655011c1f2b255b40fc5a2cee382c5"
+    },
+    {
+      "path": "12.人物研究类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "12.人物研究类/丑陋的中国人研究.md",
+      "kind": "work",
+      "bytes": 512564,
+      "lines": 3156,
+      "sha256": "229b672b6c67164c5f616ebeac3202d1897f3320061775a29c5cc52627cb55df"
+    },
+    {
+      "path": "12.人物研究类/你不知道的彭明敏.md",
+      "kind": "work",
+      "bytes": 280415,
+      "lines": 1528,
+      "sha256": "8e3d9bec7cf200b03939e96db959e6e9caca1891b45b11e6552ab7ef6c6cb7f2"
+    },
+    {
+      "path": "12.人物研究类/大江大海骗了你.md",
+      "kind": "work",
+      "bytes": 485274,
+      "lines": 3942,
+      "sha256": "b5ba1a8240603c59039ba588adc3b111ba22e018ee139328d37ce768edd06eeb"
+    },
+    {
+      "path": "12.人物研究类/孙中山研究.md",
+      "kind": "work",
+      "bytes": 274343,
+      "lines": 1526,
+      "sha256": "061eaf6a1539fbd7360523fefbdfbe55be616cbb7aef7757f5eddefb52a73ecd"
+    },
+    {
+      "path": "12.人物研究类/孙逸仙和中国西化医学.md",
+      "kind": "work",
+      "bytes": 347065,
+      "lines": 1771,
+      "sha256": "ed4e2fab130647f6f689601cb28a7b8e89bee29b88b980c4f8a5a11381476d43"
+    },
+    {
+      "path": "12.人物研究类/李敖论人物.md",
+      "kind": "work",
+      "bytes": 294770,
+      "lines": 1484,
+      "sha256": "cb3bc5db1af120adaf144b3977bd8e15587f1315e006f9d318335114af061380"
+    },
+    {
+      "path": "12.人物研究类/李登辉的假面具.md",
+      "kind": "work",
+      "bytes": 195873,
+      "lines": 1110,
+      "sha256": "d0973050e2ea8df8125c47a0634cb03fa33a637ba8dacf9ff9b9515c3c941264"
+    },
+    {
+      "path": "12.人物研究类/李登辉的真面目.md",
+      "kind": "work",
+      "bytes": 234005,
+      "lines": 1282,
+      "sha256": "1e3b2a21eae792688f6459a91b595f9cf92d1f944cf14e5e71497480d993049f"
+    },
+    {
+      "path": "12.人物研究类/胡适与我.md",
+      "kind": "work",
+      "bytes": 331840,
+      "lines": 2332,
+      "sha256": "6be2efd1c5251468a0c7cb38a3a417c738fc6fe1ce73c5b858222db68fb78e23"
+    },
+    {
+      "path": "12.人物研究类/胡适研究.md",
+      "kind": "work",
+      "bytes": 430767,
+      "lines": 2585,
+      "sha256": "3479913184ff518e60e6b4dcde5ef9d6329fece0e368f09d5803a28698577f86"
+    },
+    {
+      "path": "12.人物研究类/胡适评传.md",
+      "kind": "work",
+      "bytes": 421972,
+      "lines": 3735,
+      "sha256": "9ab686577f126119da168b3a1bd7aea86e824a2a186260e8ba95381537e8573d"
+    },
+    {
+      "path": "12.人物研究类/蒋介石的真面目.md",
+      "kind": "work",
+      "bytes": 337606,
+      "lines": 1809,
+      "sha256": "0adab98ca166ab4237aef121653bec8a335086d534e686d72db5e5ac828168f5"
+    },
+    {
+      "path": "12.人物研究类/蒋介石研究一集.md",
+      "kind": "work",
+      "bytes": 311276,
+      "lines": 1739,
+      "sha256": "b0771de01c2f0f081f45367e7d695dc96ef0779790fd72685f2d3c4877b6feb4"
+    },
+    {
+      "path": "12.人物研究类/蒋介石研究三集.md",
+      "kind": "work",
+      "bytes": 351359,
+      "lines": 1581,
+      "sha256": "ce0feea168a8e2001d584fe18cbdfe9d856e01928492d5eb721696eca881f1a5"
+    },
+    {
+      "path": "12.人物研究类/蒋介石研究五集.md",
+      "kind": "work",
+      "bytes": 359122,
+      "lines": 2324,
+      "sha256": "9046181b0171e7fec47ffe7e98ee63877858d7e408d5b2f6f7b940e5f128e6a8"
+    },
+    {
+      "path": "12.人物研究类/蒋介石研究六集.md",
+      "kind": "work",
+      "bytes": 305132,
+      "lines": 1939,
+      "sha256": "8eb91b9a4fdd6b43106bb497b6bfd5b2bf6d2f2be67ebe3efca1c83f038d40fa"
+    },
+    {
+      "path": "12.人物研究类/蒋介石研究四集.md",
+      "kind": "work",
+      "bytes": 373940,
+      "lines": 1869,
+      "sha256": "ab352f6e950711dc87661faa4934893376cee642acfec6a1a13c81d56b5e1d4f"
+    },
+    {
+      "path": "12.人物研究类/蒋介石研究续集.md",
+      "kind": "work",
+      "bytes": 346818,
+      "lines": 1951,
+      "sha256": "0ff6d84a9068eac987e441f38140da4f0e5b88a57bdace412de5e14670f76956"
+    },
+    {
+      "path": "12.人物研究类/蒋介石评传.md",
+      "kind": "work",
+      "bytes": 1325077,
+      "lines": 4448,
+      "sha256": "a80d0ba8b5ed28d953e9ff986a34581a87a926cdb649296a0285ae58bc36a62e"
+    },
+    {
+      "path": "12.人物研究类/蒋家臭史.md",
+      "kind": "work",
+      "bytes": 176032,
+      "lines": 1136,
+      "sha256": "6f0f2b4034bf23c7d7a0fab11ad0c86586e02140f1ff933deb65b96f5567be86"
+    },
+    {
+      "path": "12.人物研究类/蒋经国研究.md",
+      "kind": "work",
+      "bytes": 69183,
+      "lines": 493,
+      "sha256": "535686ac2d0097fd19261924f6969ae9ef9860feb3b45d21eec6c26f7be2208b"
+    },
+    {
+      "path": "12.人物研究类/论定蒋经国.md",
+      "kind": "work",
+      "bytes": 97694,
+      "lines": 473,
+      "sha256": "e9b246a70044781ab1f8b7359506f2228d32ae8fe022848e41455811822d8735"
+    },
+    {
+      "path": "12.人物研究类/郑南榕研究.md",
+      "kind": "work",
+      "bytes": 244497,
+      "lines": 1516,
+      "sha256": "18442e2c96857a3f95dd135a15aec2cf85f8b29bcbec987c0f4972a7380e7d80"
+    },
+    {
+      "path": "12.人物研究类/陈水扁的真面目.md",
+      "kind": "work",
+      "bytes": 240479,
+      "lines": 1735,
+      "sha256": "922b3da4bc4d83eb823f38fa53e422fc4aef283de40557abc1497d5315315218"
+    },
+    {
+      "path": "13.国民党史政类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "13.国民党史政类/国民党研究.md",
+      "kind": "work",
+      "bytes": 216388,
+      "lines": 1429,
+      "sha256": "7247b6c2a9dc96ebeb7a7afcdd226ed5d9750c5c62fad1175e02354a6b80f621"
+    },
+    {
+      "path": "13.国民党史政类/国民党研究续集.md",
+      "kind": "work",
+      "bytes": 308120,
+      "lines": 1728,
+      "sha256": "e165f23cd7b961d8fde87f9fd3ace3437596ce9ebabe7fc3c7bf2a3195ea71bb"
+    },
+    {
+      "path": "13.国民党史政类/国民党臭史.md",
+      "kind": "work",
+      "bytes": 320680,
+      "lines": 1905,
+      "sha256": "debc559b100a711139a237d707330df5fc9dceba3075db27ae29eac985e1ad47"
+    },
+    {
+      "path": "13.国民党史政类/给国民党难看.md",
+      "kind": "work",
+      "bytes": 199595,
+      "lines": 1138,
+      "sha256": "9aba75cb247ead8d4249f95829807f896c08d46aba9d0936bebfc883f1c8927b"
+    },
+    {
+      "path": "13.国民党史政类/给外省人难看.md",
+      "kind": "work",
+      "bytes": 219826,
+      "lines": 1481,
+      "sha256": "a5a8e9796b2940aaafff7dfbd076b7fe2fe79f1ccf5fb2ab70de47d06912f8fd"
+    },
+    {
+      "path": "13.国民党史政类/老贼臭史.md",
+      "kind": "work",
+      "bytes": 277501,
+      "lines": 1345,
+      "sha256": "b78d4763f768484df7f46c86bd9d42d2b68c595ccf37e1b7756a7864f173105e"
+    },
+    {
+      "path": "14.台湾史政类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "14.台湾史政类/你不知道的二二八.md",
+      "kind": "work",
+      "bytes": 346950,
+      "lines": 4114,
+      "sha256": "f7e87d319780bfdb79f47e3c9a0c4e69756019e6fd1211526a25f122913ac9f7"
+    },
+    {
+      "path": "14.台湾史政类/冷眼看台湾.md",
+      "kind": "work",
+      "bytes": 481584,
+      "lines": 2964,
+      "sha256": "c689d36d41cb398df3700a8fcbd9014bee47c3e5e95d81b33272c5116da7f3b7"
+    },
+    {
+      "path": "14.台湾史政类/另一面的二二八.md",
+      "kind": "work",
+      "bytes": 292197,
+      "lines": 1549,
+      "sha256": "32fc0a2f7668608d57a22aebded2a076bdc3f9be18886e2f9e892ca8627ff86e"
+    },
+    {
+      "path": "14.台湾史政类/民进党研究.md",
+      "kind": "work",
+      "bytes": 460283,
+      "lines": 2363,
+      "sha256": "0b01c34930867ae2cdc06159c5aa46c6601b797f34d168d870c136c12b556bf7"
+    },
+    {
+      "path": "14.台湾史政类/法眼看台湾.md",
+      "kind": "work",
+      "bytes": 257747,
+      "lines": 1550,
+      "sha256": "4e39982d92904930c44889342ad6ea980730d99dc800a7546fca7de9f434bb24"
+    },
+    {
+      "path": "14.台湾史政类/白眼看台湾.md",
+      "kind": "work",
+      "bytes": 263580,
+      "lines": 1539,
+      "sha256": "a0884e19296158de649829efabe4b55c34197694e9765ad2318b0a28c749607d"
+    },
+    {
+      "path": "14.台湾史政类/白色恐怖述奇.md",
+      "kind": "work",
+      "bytes": 430633,
+      "lines": 2243,
+      "sha256": "3eb7876e8a0b80cf614d87dc50d28646e50bdfdf0a6cdad2c2620a4138b06578"
+    },
+    {
+      "path": "14.台湾史政类/给台湾人难看.md",
+      "kind": "work",
+      "bytes": 246183,
+      "lines": 1403,
+      "sha256": "44e6173d3253bffe825124b75221498aaf921cc033340e49ff087427c373e026"
+    },
+    {
+      "path": "15.雷霆法律类/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "15.雷霆法律类/李敖刀笔集.md",
+      "kind": "work",
+      "bytes": 233228,
+      "lines": 1965,
+      "sha256": "be9db66cc1c90ab57299889bf6f1acc67cea1e80b57415b9f3c088876ddef69f"
+    },
+    {
+      "path": "15.雷霆法律类/李敖好讼集.md",
+      "kind": "work",
+      "bytes": 202476,
+      "lines": 2081,
+      "sha256": "fbd60398211ef39bc8f4baa97547159cf8547c03cfaed330dcd62f4e10a7853b"
+    },
+    {
+      "path": "15.雷霆法律类/李敖弄法集.md",
+      "kind": "work",
+      "bytes": 220743,
+      "lines": 1507,
+      "sha256": "5c4135b1ab2cd273383a7b85fada97dac42cf8b03b6727c4fa6274e8eab651af"
+    },
+    {
+      "path": "15.雷霆法律类/李敖放刁集.md",
+      "kind": "work",
+      "bytes": 228872,
+      "lines": 1705,
+      "sha256": "5c955a7f42f1c797678d2c53315afd9296df93549806fb88722af78b6b746879"
+    },
+    {
+      "path": "15.雷霆法律类/李敖闹衙集.md",
+      "kind": "work",
+      "bytes": 287802,
+      "lines": 1474,
+      "sha256": "781c35f3b5e541323ed62adb3e601591718f333c50e23bc4e42e65204c49d275"
+    },
+    {
+      "path": "16.李敖祸台十书/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "16.李敖祸台十书/从万宝囊到臭屎堆.md",
+      "kind": "work",
+      "bytes": 244032,
+      "lines": 1399,
+      "sha256": "513ca789756768446b60832ac86c9ce923243fb862ae5b25a3c32298e9386b0e"
+    },
+    {
+      "path": "16.李敖祸台十书/只爱一点点.md",
+      "kind": "work",
+      "bytes": 217917,
+      "lines": 1428,
+      "sha256": "8fc4340bfa5d54afe8348a2006cb73bc31a051574019067274690f2dc50529fe"
+    },
+    {
+      "path": "16.李敖祸台十书/君子爱人以色.md",
+      "kind": "work",
+      "bytes": 219131,
+      "lines": 1740,
+      "sha256": "2cd44cbe8066d749119519f5e53639c74ecc38db491a138ced58a7ecb61c66ab"
+    },
+    {
+      "path": "16.李敖祸台十书/启发你的小故事.md",
+      "kind": "work",
+      "bytes": 207314,
+      "lines": 1220,
+      "sha256": "efc40129bc08bfd13f87a10bcc0933531638d79f69bfea60e819e519e9cbc500"
+    },
+    {
+      "path": "16.李敖祸台十书/恰似我的温柔.md",
+      "kind": "work",
+      "bytes": 253302,
+      "lines": 1309,
+      "sha256": "031240f998037593840fecbb937dccf9086e54b4a5acbef503e51a3e61db0833"
+    },
+    {
+      "path": "16.李敖祸台十书/我们没有明天.md",
+      "kind": "work",
+      "bytes": 231965,
+      "lines": 1273,
+      "sha256": "9b8cd805afcc7e4b95a33ec3288417e4232c5cedefa1030ee10182eff2fb5682"
+    },
+    {
+      "path": "16.李敖祸台十书/李敖智慧书.md",
+      "kind": "work",
+      "bytes": 221383,
+      "lines": 1346,
+      "sha256": "6e4b0efd2860d0085f8de90fbb333b8bb621d31b4af4b3bbc190ddcdf2a3db0d"
+    },
+    {
+      "path": "16.李敖祸台十书/李敖生死书.md",
+      "kind": "work",
+      "bytes": 270694,
+      "lines": 1633,
+      "sha256": "812f2fa760cede63cdf8f689e95a2d2da6df71d48f5d701649a0864d9ba4a872"
+    },
+    {
+      "path": "16.李敖祸台十书/笑傲五十年.md",
+      "kind": "work",
+      "bytes": 218083,
+      "lines": 1566,
+      "sha256": "4be8f6ca0d90363128c69b57d8b322a6be1f6bf603eb4295ed8f02d23ecf82ee"
+    },
+    {
+      "path": "16.李敖祸台十书/第一流人的境界.md",
+      "kind": "work",
+      "bytes": 183155,
+      "lines": 1652,
+      "sha256": "57450f4ed821cf8d3d6c8b52c147ebc5b35ca1ed980255528423d25b4d285d06"
+    },
+    {
+      "path": "17.百家论李敖合集/README.md",
+      "kind": "metadata",
+      "bytes": 0,
+      "lines": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "17.百家论李敖合集/李敖研究fashion文集.md",
+      "kind": "work",
+      "bytes": 500891,
+      "lines": 2016,
+      "sha256": "d356cdb5ddf524e73adb72022d6c481c4530bdc744d1cbb0122e2beac9717647"
+    },
+    {
+      "path": "17.百家论李敖合集/百家论李敖.md",
+      "kind": "work",
+      "bytes": 1177349,
+      "lines": 6920,
+      "sha256": "6f55b6bac198bfd26b4ce2ca4d6b201b813c6007252b6ea3ec88f8e448665e83"
+    },
+    {
+      "path": "README.md",
+      "kind": "metadata",
+      "bytes": 2188,
+      "lines": 64,
+      "sha256": "cd95db495863386797e706125cd7f508d4ff403ecc05420e01589c420b5136ca"
+    },
+    {
+      "path": "SUMMARY.md",
+      "kind": "metadata",
+      "bytes": 9798,
+      "lines": 154,
+      "sha256": "ff89e602927556386e89c59598fbe4e6af1fd90d9f97410defd73d8bdf3572ee"
+    },
+    {
+      "path": "wjm_tcy.md",
+      "kind": "metadata",
+      "bytes": 24439,
+      "lines": 243,
+      "sha256": "dd9a1631ed6e0d7efbfcadfa93c98c658ff20e3528096467674b1faabb76ed9a"
+    }
+  ]
+}
